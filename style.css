@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+.bg_color {
+  background-color: burlywood;
+  text-align: center;
+}
+
+p,
+ul {
+  font-size: 20px;
+}
